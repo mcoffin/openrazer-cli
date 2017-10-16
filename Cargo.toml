@@ -1,0 +1,8 @@
+[package]
+name = "openrazer-cli"
+version = "0.1.0"
+authors = ["Matt Coffin <mcoffin13@gmail.com>"]
+
+[dependencies]
+byteorder = "^1.1.0"
+clap = "^2.26.2"
